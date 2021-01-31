@@ -1,6 +1,6 @@
 # kjv
 
-Read the Word of God from your terminal
+Read the Word of MC Speedrunning from your terminal
 
 Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha added.
 
